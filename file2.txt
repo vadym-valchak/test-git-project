@@ -1,3 +1,4 @@
 Third edited text (t-edited)
 Make some changes in the file
 BR-2
+Some text
