@@ -3,3 +3,4 @@ Hello
 new line
 Last row\Stash2
 \nStash3
+\nStash4
