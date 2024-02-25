@@ -1,4 +1,4 @@
 First row (2)3
 Hello
 new line
-Last row
+Last row\Stash2
